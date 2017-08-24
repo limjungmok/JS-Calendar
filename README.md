@@ -9,6 +9,24 @@
 
 ---
 
+### 도움말
+
+- [Date](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [이벤트 걸기](https://developer.mozilla.org/ko/docs/Web/API/EventTarget/addEventListener)
+- [이벤트 종류](https://developer.mozilla.org/ko/docs/Web/Reference/Events)
+- [Element 만들기](https://developer.mozilla.org/ko/docs/Web/API/Document/createElement)
+- [여러개의 Element 찾기](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+- [하나의 Element 찾기](https://developer.mozilla.org/ko/docs/Web/API/Document/querySelector)
+- [Element HTML 수정](https://developer.mozilla.org/ko/docs/Web/API/Element/innerHTML)
+- [Element 텍스트 변경](https://developer.mozilla.org/ko/docs/Web/API/Node/textContent)
+- [Element 뒤로 추가](https://developer.mozilla.org/ko/docs/Web/API/Node/appendChild)
+- [Element 앞에 추가](https://developer.mozilla.org/ko/docs/Web/API/Node/insertBefore)
+- [Document API](https://developer.mozilla.org/ko/docs/Web/API/Document)
+- [Element API](https://developer.mozilla.org/ko/docs/Web/API/Element)
+- [Node API](https://developer.mozilla.org/ko/docs/Web/API/Node)
+
+---
+
 ### Installation
 
 - 우선 repository를 본인 Github 계정으로 fork해주세요. (바닐라코딩 vanilla-clock repository 페이지 오른쪽 상단에 보시면 fork 버튼이 있습니다.)
