@@ -1,9 +1,8 @@
 {
-  "name": "google-clone",
+  "name": "vanilla-clock",
   "version": "1.0.0",
-  "description": "Creating a static google clone website",
-  "main": "bundle.js",
-  "dependencies": {},
+  "description": "Vanilla Clock",
+  "main": "webpack.config.js",
   "devDependencies": {
     "css-loader": "^0.28.4",
     "file-loader": "^0.11.2",
@@ -20,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanilla-coding/google-clone.git"
+    "url": "git+https://github.com/vanilla-coding/vanilla-clock.git"
   },
   "author": "Ken Huh <ken@vanillacoding.co>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vanilla-coding/google-clone/issues"
+    "url": "https://github.com/vanilla-coding/vanilla-clock/issues"
   },
-  "homepage": "https://github.com/vanilla-coding/google-clone#readme"
+  "homepage": "https://github.com/vanilla-coding/vanilla-clock#readme"
 }
