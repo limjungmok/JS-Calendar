@@ -9,7 +9,7 @@ const HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
 const config = {
   entry: [
     './src/index.js',
-    './src/style.css'
+    './src/style.less'
   ],
   output: {
     path: path.resolve('dist'),
@@ -21,21 +21,13 @@ const config = {
   module: {
     rules: [
       {
-        test: /\.css$/,
+        test: /\.less$/,
         exclude: /node_modules/,
         use: [
           'style-loader',
-          'css-loader'
+          'css-loader',
+          'less-loader'
         ]
-      },
-      {
-        test: /\.(png|jpg|gif|svg)$/,
-        use: {
-          loader: 'file-loader',
-          options: {
-            name: '/assets/[name].[ext]'
-          }
-        }
       }
     ]
   },
