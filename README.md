@@ -2,11 +2,8 @@
 
 ### 필수 사항
 
-- 날짜 보이기: 년, 월, 일
-- 시간 보이기: 시, 분, 초
-- 실시간으로 계속 업데이트되어야 합니다.
-- 스타일은 자유 형식입니다.
-- 보너스: 스톱워치 기능 추가
+- [링크](https://developer-victoria-48855.netlify.com/) 에 있는 달력을 보고 똑같이 만드시면 됩니다.
+- 다른 month로 이동했다가 현재 month로 돌아오면, 현재 날짜에 빨간 마크가 나와야합니다. 이 부분은 위 링크에서 망가져있습니다.
 
 ---
 
@@ -30,7 +27,7 @@
 
 ### Installation
 
-- 우선 repository를 본인 Github 계정으로 fork해주세요. (바닐라코딩 vanilla-clock repository 페이지 오른쪽 상단에 보시면 fork 버튼이 있습니다.)
+- 우선 repository를 본인 Github 계정으로 fork해주세요. (바닐라코딩 vanilla-calendar repository 페이지 오른쪽 상단에 보시면 fork 버튼이 있습니다.)
 
 ```
 // ** 본인이 원하는 디렉토리내에서 실행할 것. **
@@ -39,7 +36,7 @@
 git clone REMOTE_URL
 
 // 방금 clone한 디렉토리로 이동
-cd vanilla-clock
+cd vanilla-calendar
 
 // 작업에 필요한 구성 요소 설치
 npm install
