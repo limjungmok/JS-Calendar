@@ -2,7 +2,7 @@
 
 ### 필수 사항
 
-- [링크](https://developer-victoria-48855.netlify.com/) 에 있는 달력을 보고 똑같이 만드시면 됩니다.
+- [링크](https://kelendar.netlify.com/) 에 있는 달력을 보고 똑같이 만드시면 됩니다.
 - 다른 month로 이동했다가 현재 month로 돌아오면, 현재 날짜에 빨간 마크가 나와야합니다. 이 부분은 위 링크에서 망가져있습니다.
 
 ---
