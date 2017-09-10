@@ -1,7 +1,7 @@
 {
-  "name": "vanilla-clock",
+  "name": "vanilla-calendar",
   "version": "1.0.0",
-  "description": "Vanilla Clock",
+  "description": "Vanilla Calendar",
   "main": "webpack.config.js",
   "devDependencies": {
     "css-loader": "^0.28.4",
@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanilla-coding/vanilla-clock.git"
+    "url": "git+https://github.com/vanilla-coding/vanilla-calendar.git"
   },
   "author": "Ken Huh <ken@vanillacoding.co>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vanilla-coding/vanilla-clock/issues"
+    "url": "https://github.com/vanilla-coding/vanilla-calendar/issues"
   },
-  "homepage": "https://github.com/vanilla-coding/vanilla-clock#readme"
+  "homepage": "https://github.com/vanilla-coding/vanilla-calendar#readme"
 }
