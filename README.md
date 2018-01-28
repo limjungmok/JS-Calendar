@@ -75,4 +75,4 @@ git push origin master
 
 작업 내용 저장 후, 다음 링크의 방법을 따라하세요.[PR 만들기](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
-**영어 잘 이해 안되시면 사슴나라 슬랙 채널에 물어보세요!**
+**영어 잘 이해 안되시면 슬랙 채널에 물어보세요!**
