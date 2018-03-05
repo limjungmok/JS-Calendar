@@ -2,9 +2,13 @@
 
 ### 필수 사항
 
-- 스타일은 자유형식으로 바꾸셔도 됩니다만, 기본적으로 한쪽 패널에선 현재 날짜 혹은 클릭한 날짜 보이고 다른 한쪽 패널에선 월의 모든 날짜가 보이는 이런 형식은 유지해주셔야 합니다.
+- 아래 화면을 보시고 최대한 똑같이 구현해주세요.
 
 ![screenshot](https://github.com/vanilla-coding/vanilla-calendar/blob/master/calendar.gif?raw=true)
+
+### 보너스
+
+- **날짜별**로 TODO List를 추가/수정/삭제할 수 있는 기능을 만들어주세요.
 
 ---
 
