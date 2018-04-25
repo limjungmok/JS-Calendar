@@ -1,15 +1,12 @@
 # Creating a calendar
 
-### 필수 사항
+### 필수 구현 사항
 
 - 아래 화면을 보시고 최대한 똑같이 구현해주세요.
 
 ![screenshot](https://github.com/vanilla-coding/vanilla-calendar/blob/master/calendar.gif?raw=true)
 
-### 보너스
-
-- **날짜별**로 TODO List를 추가/수정/삭제할 수 있는 기능을 만들어주세요. 화면은 자유롭게..
-- 참고 [링크](http://todomvc.com/examples/backbone/)
+- **날짜별**로 TODO List를 추가/수정/삭제할 수 있는 기능을 만들어주세요. 화면은 자유롭게.. 참고 [링크](http://todomvc.com/examples/backbone/)
 
 ---
 
