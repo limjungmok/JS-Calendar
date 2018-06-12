@@ -7,6 +7,7 @@
 ![screenshot](https://github.com/vanilla-coding/vanilla-calendar/blob/master/calendar.gif?raw=true)
 
 2. **날짜별**로 TODO List를 추가/수정/삭제할 수 있는 기능을 만들어주세요. 화면은 자유롭게.. 참고 [링크](http://todomvc.com/examples/backbone/)
+3. TODO List 정보는 [LocalStorage](https://developer.mozilla.org/ko/docs/Web/API/Window/localStorage)를 이용하여 저장하고 읽어와야 합니다.
 
 ---
 
