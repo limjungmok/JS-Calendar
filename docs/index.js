@@ -1,15 +1,13 @@
 /* 
 import calendar
 main app
-
 */
 
-var KEY_CODE = {
-  'ENTER': 13
-};
+
 
 (function() {
   'use strict';
+  var KEY_CODE = {'ENTER': 13};
   var MONTH_LIST = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   var DAY_LIST = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];  
 
@@ -106,6 +104,7 @@ var KEY_CODE = {
     
     // 수정할 li, 교체될 li replace
     todo_ul.replaceChild(replaced_li, edit_li);
+    replaced_input.focus();
 
     replaced_input.addEventListener('keypress', function(e) {
       if(e.keyCode === KEY_CODE.ENTER) {
@@ -290,4 +289,5 @@ var KEY_CODE = {
   })();
 
   app.init();
+  
 })();
