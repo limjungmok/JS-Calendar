@@ -3,8 +3,6 @@ import calendar
 main app
 */
 
-
-
 (function() {
   'use strict';
   var KEY_CODE = {'ENTER': 13};

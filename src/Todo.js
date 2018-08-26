@@ -1,6 +1,3 @@
-/*
-* Todo.js
-*/
 'use strict';
 function Todo() {
   var myStorage = localStorage;
@@ -30,3 +27,4 @@ function Todo() {
     }
   };
 }
+
